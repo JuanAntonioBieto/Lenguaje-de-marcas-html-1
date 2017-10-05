@@ -21,5 +21,20 @@
 <td>Público entregado</td>
 <td>Abajo el telón</td>
 </tr>
+<tr>
+<td>Sin coste</td>
+<td>40/45/50/55/60 de maná</td>
+<td>50/60/70/80/90 de maná</td>
+<td>30/35/40/45/50 de maná</td>
+<td>100 de maná</td>
+</tr>
+<tr>
+<td>Sin cooldown</td>
+<td>7/6.5/6/5.5/5 segundos</td>
+<td>14 segundos</td>
+<td>2(60) segundos</td>
+<td>120/105/90 segundos</td>
+</tr>
+</table>
 </body>
 </html>
