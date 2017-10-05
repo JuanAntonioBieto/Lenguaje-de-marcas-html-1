@@ -5,4 +5,20 @@
 </head>
 <body> 
 <h1> Jhin el francotirador que nunca falla. </h1>
-<img src="
+<img src="img/jhin.jpg" alt="Jhin el mejor adc">
+<table style="width:100%">
+<tr>
+<th>Pasiva</th>
+<th>Habilidad 1 (Q)</th>
+<th>Habilidad 2 (W) </th> 
+<th>Habilidad 3 (E) </th>
+<th>Habilidad 4 (R) </th>
+</tr>
+<tr>
+<td>Susurro</td>
+<td>Granada danzante</td>
+<td>Florecer mortal</td>
+<td>Público entregado</td>
+<td>Abajo el telón</td>
+</tr>
+
